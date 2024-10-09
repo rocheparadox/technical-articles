@@ -1,0 +1,6 @@
+../Core/Src/mpu_6050.c:6:5:write_to_register	32	static
+../Core/Src/mpu_6050.c:11:5:read_from_register	32	static
+../Core/Src/mpu_6050.c:16:5:set_interrupt_enable	16	static
+../Core/Src/mpu_6050.c:21:5:set_sampling_rate	24	static
+../Core/Src/mpu_6050.c:30:5:clear_interrupt_status	16	static
+../Core/Src/mpu_6050.c:35:5:write_to_power_mgmt	16	static
